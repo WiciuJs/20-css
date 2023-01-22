@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(196, 146, 146);
+}
+h1 {
+    color :aqua
+}
+h3 {
+    color: deeppink;
+}
+p1 {
+    color: aquamarine;
+}
+p2 {
+    color: blue;
+}
+span1 {
+    color: greenyellow;
+}
+span2 {
+    color: brown;
+}
+span3 {
+    color :yellow;
+}
+span4 {
+    color: orangered;
+}
+span5 {
+    color: purple;
+}
